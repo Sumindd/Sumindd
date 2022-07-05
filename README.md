@@ -1,4 +1,4 @@
-### Hi there 👋
+### 고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과 21학번 지수민
 
 <!--
 **Sumindd/Sumindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
