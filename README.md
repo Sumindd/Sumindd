@@ -1,5 +1,23 @@
-### 고려대학교 세종캠퍼스 컴퓨터융합소프트웨어학과 21학번 지수민
+### 
+<div align=center><h1> SKILLS</h1></div>
+<div align=center>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/ C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
 
+
+<div align=center><h1> SNS</h1></div>
+<div align=center>
+<a href="https://blog.naver.com/wltnals09"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+<a href="wltnals09@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+
+
+  
 <!--
 **Sumindd/Sumindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
