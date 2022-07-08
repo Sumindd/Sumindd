@@ -1,4 +1,15 @@
 ### 
+
+<div align=center><h1> Statistics</h1></div>
+<div align=center>
+  
+![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumindd&show_icons=true&theme=tokyonight)
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnals09)](https://solved.ac/wltnals09)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumindd&layout=compact&theme=tokyonight)
+  
+  
 <div align=center><h1> SKILLS</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -17,14 +28,6 @@
 <a href="mailto:wltnals09@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
-<div align=center><h1> Statistics</h1></div>
-<div align=center>
-  
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumindd&show_icons=true&theme=tokyonight)
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnals09)](https://solved.ac/wltnals09)
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumindd&layout=compact&theme=tokyonight)
 
 <!--
 **Sumindd/Sumindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
