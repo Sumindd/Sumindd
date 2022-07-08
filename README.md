@@ -17,7 +17,8 @@
 <a href="mailto:wltnals09@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
-
+<div align=center><h1> Rank</h1></div>
+<div align=center>
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumindd&show_icons=true&theme=tokyonight)
   
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnals09)](https://solved.ac/wltnals09)
