@@ -3,9 +3,6 @@
 <div align=center><h1> Statistics</h1></div>
 <div align=center>
   
-![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumindd&show_icons=true&theme=tokyonight)
-
-  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumindd&layout=compact&theme=tokyonight)
   
   
