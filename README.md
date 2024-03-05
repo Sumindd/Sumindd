@@ -24,7 +24,7 @@
 
 <div align=center><h1> SNS</h1></div>
 <div align=center>
-<a href="https://blog.naver.com/leedan9"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
+<a href="https://blog.naver.com/min_d109"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white"/></a>
 <a href="mailto:wltnals09@korea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
