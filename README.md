@@ -4,8 +4,7 @@
 <div align=center>
   
 ![K-Junyyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sumindd&show_icons=true&theme=tokyonight)
-  
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltnals09)](https://solved.ac/wltnals09)
+
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumindd&layout=compact&theme=tokyonight)
   
