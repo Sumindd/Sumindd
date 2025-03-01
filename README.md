@@ -1,10 +1,15 @@
 ### 
 
+
+
+
+<!--
+**Sumindd/Sumindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 <div align=center><h1> Statistics</h1></div>
 <div align=center>
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sumindd&layout=compact&theme=tokyonight)
-  
   
 <div align=center><h1> SKILLS / Tools</h1></div>
 <div align=center>
@@ -16,10 +21,6 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=for-the-badge&logo=Adobe Photoshop&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </div>
-
-
-<!--
-**Sumindd/Sumindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
